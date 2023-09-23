@@ -1,0 +1,5 @@
+-  Hi, I’m Mahmoud Gamal ELkholy
+-  I’m interested in Digital IC Design.
+-  I’m currently learning electronics an telecommunication.
+-  Gmail    : mmmelkholy1.1@gmail.com
+-  Linkedin : https://www.linkedin.com/in/mahmoud-gamal-bb64a5276
